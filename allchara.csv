@@ -1,0 +1,42 @@
+﻿Character,Lv,Rarity,Element,Weapon,Main role,Ascension,Base HP,Base ATK,Base DEF
+Albedo,90,5,Geo,Sword,Support,Geo DMG,13226,251,876
+Aloy,90,5,Cryo,Bow,DPS,Cryo DMG,10899,234,676
+Amber,90,4,Pyro,Bow,Sub DPS,ATK,9461,223,601
+Ayaka,90,5,Cryo,Sword,DPS,CRIT DMG,12858,342,784
+Barbara,90,4,Hydro,Catalyst,Healer,HP,9787,159,669
+Bennett,90,4,Pyro,Sword,Healer,Energy Recharge,12397,191,771
+Chongyun,90,4,Cryo,Claymore,Sub DPS,ATK,10984,223,648
+Diluc,90,5,Pyro,Claymore,DPS,CRIT Rate,12981,335,784
+Diona,90,4,Cryo,Bow,Support,Cryo DMG,9570,212,601
+Fischl,90,4,Electro,Bow,Sub DPS,ATK,9189,244,594
+Ganyu,90,5,Cryo,Bow,DPS,CRIT DMG,9797,335,630
+Eula,90,5,Cryo,Claymore,DPS,CRIT DMG,13226,342,751
+Beidou,90,4,Electro,Claymore,Sub DPS,Electro DMG,13050,225,648
+Jean,90,5,Anemo,Sword,Healer,Healing Bonus,14695,239,769
+Kaeya,90,4,Cryo,Sword,Support,Energy Recharge,11636,223,792
+Keqing,90,5,Electro,Sword,DPS,CRIT DMG,13103,323,799
+Klee,90,5,Pyro,Catalyst,DPS,Pyro DMG,10287,311,615
+Lisa,90,4,Electro,Catalyst,Support,Elemental Mastery,9570,232,573
+Mona,90,5,Hydro,Catalyst,Support,Energy Recharge,10409,287,653
+Ningguang,90,4,Geo,Catalyst,DPS,Geo DMG,9787,212,573
+Noelle,90,4,Geo,Claymore,Support,DEF,12071,191,799
+Qiqi,90,5,Cryo,Sword,Healer,Healing Bonus,12368,287,922
+Razor,90,4,Electro,Claymore,DPS,Physical DMG,11962,234,751
+Sucrose,90,4,Anemo,Catalyst,Support,Anemo DMG,9244,170,703
+Venti,90,5,Anemo,Bow,Support,Energy Recharge,10531,263,669
+Xiangling,90,4,Pyro,Polearm,Sub DPS,Elemental Mastery,10875,225,669
+Xiao,90,5,Anemo,Polearm,DPS,CRIT Rate,12736,349,799
+Xingqiu,90,4,Hydro,Sword,Sub DPS,ATK,10222,202,758
+Tartaglia,90,5,Hydro,Bow,DPS,Hydro DMG,13103,301,815
+Zhongli,90,5,Geo,Polearm,Support,Geo DMG,14695,251,738
+Xinyan,90,4,Pyro,Claymore,Support,ATK,11201,249,799
+Rosaria,90,4,Cryo,Polearm,DPS,ATK,12289,240,710
+Hutao,90,5,Pyro,Polearm,DPS,CRIT DMG,15552,106,876
+Yanfei,90,4,Pyro,Catalyst,DPS,Pyro DMG,9352,240,587
+Kazuha,90,5,Anemo,Sword,Support,Elemental Mastery,13348,297,807
+Yoimiya,90,5,Pyro,Bow,DPS,CRIT Rate,10164,323,615
+Sayu,90,4,Anemo,Claymore,Healer,Elemental Mastery,11854,244,745
+Traveler,90,5,All,Sword,Support,ATK,10875,212,683
+Shogun,90,5,Electro,Polearm,Sub DPS,Energy Recharge,12907,337,789
+Sara,90,4,Electro,Bow,Support,ATK,9570,195,628
+Kokomi,90,5,Hydro,Catalyst,Healer,Hydro DMG,13471,234,657
