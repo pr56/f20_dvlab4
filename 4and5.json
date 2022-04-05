@@ -7,7 +7,7 @@
 		{ "element": "Hydro", "count": "2"}
 		{ "element": "Pyro", "count": "5"}
 	],
-	5star": [
+	"5star": [
 		{ "element": "Anemo", "count": "4"},
 		{ "element": "Cryo", "count": "5"},
 		{ "element": "Electro", "count": "2"},
