@@ -1,0 +1,18 @@
+{
+	"4star": [
+		{ "element": "Anemo", "count": "2"},
+		{ "element": "Cryo", "count": "4"},
+		{ "element": "Electro", "count": "5"},
+		{ "element": "Geo", "count": "2"},
+		{ "element": "Hydro", "count": "2"}
+		{ "element": "Pyro", "count": "5"}
+	],
+	5star": [
+		{ "element": "Anemo", "count": "4"},
+		{ "element": "Cryo", "count": "5"},
+		{ "element": "Electro", "count": "2"},
+		{ "element": "Geo", "count": "2"},
+		{ "element": "Hydro", "count": "3"}
+		{ "element": "Pyro", "count": "4"}
+	]
+}
