@@ -1,5 +1,5 @@
 {
-	"4star": [
+	"fourstar": [
 		{ "element": "Anemo", "count": "2"},
 		{ "element": "Cryo", "count": "4"},
 		{ "element": "Electro", "count": "5"},
@@ -7,7 +7,7 @@
 		{ "element": "Hydro", "count": "2"},
 		{ "element": "Pyro", "count": "5"}
 	],
-	"5star": [
+	"fivestar": [
 		{ "element": "Anemo", "count": "4"},
 		{ "element": "Cryo", "count": "5"},
 		{ "element": "Electro", "count": "2"},
